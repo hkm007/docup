@@ -1,0 +1,11 @@
+.home-container {
+    display: flex;
+    flex: 1;
+    justify-content: center;
+    align-items: center;
+}
+
+h1 {
+    color: rebeccapurple;
+    margin-top: 50px;
+}
